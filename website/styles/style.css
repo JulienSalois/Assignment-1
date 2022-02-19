@@ -45,6 +45,7 @@ h1{
 #call-for-action{
 	background-color: #C5C4C9;
 	margin-top: 25px;
+	border-radius: 25px;
 }
 #nav-ul{
 	display:flex;
